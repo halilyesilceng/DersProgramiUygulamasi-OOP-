@@ -64,7 +64,7 @@
             this.btnDersEkle.Location = new System.Drawing.Point(172, 243);
             this.btnDersEkle.Name = "btnDersEkle";
             this.btnDersEkle.Size = new System.Drawing.Size(271, 23);
-            this.btnDersEkle.TabIndex = 2;
+            this.btnDersEkle.TabIndex = 6;
             this.btnDersEkle.Text = "DERS EKLE";
             this.btnDersEkle.UseVisualStyleBackColor = true;
             this.btnDersEkle.Click += new System.EventHandler(this.btnDersEkle_Click);
@@ -74,7 +74,7 @@
             this.txtDersAdi.Location = new System.Drawing.Point(172, 69);
             this.txtDersAdi.Name = "txtDersAdi";
             this.txtDersAdi.Size = new System.Drawing.Size(271, 22);
-            this.txtDersAdi.TabIndex = 4;
+            this.txtDersAdi.TabIndex = 2;
             // 
             // lblDersAdi
             // 
@@ -90,7 +90,7 @@
             this.txtDersHocasi.Location = new System.Drawing.Point(172, 113);
             this.txtDersHocasi.Name = "txtDersHocasi";
             this.txtDersHocasi.Size = new System.Drawing.Size(271, 22);
-            this.txtDersHocasi.TabIndex = 6;
+            this.txtDersHocasi.TabIndex = 3;
             // 
             // lblDersHocasi
             // 
@@ -106,7 +106,7 @@
             this.txtDersBaslamaSaati.Location = new System.Drawing.Point(172, 151);
             this.txtDersBaslamaSaati.Name = "txtDersBaslamaSaati";
             this.txtDersBaslamaSaati.Size = new System.Drawing.Size(271, 22);
-            this.txtDersBaslamaSaati.TabIndex = 8;
+            this.txtDersBaslamaSaati.TabIndex = 4;
             // 
             // lblDersBaslamaSaati
             // 
@@ -122,7 +122,7 @@
             this.txtDersBitisSaati.Location = new System.Drawing.Point(172, 196);
             this.txtDersBitisSaati.Name = "txtDersBitisSaati";
             this.txtDersBitisSaati.Size = new System.Drawing.Size(271, 22);
-            this.txtDersBitisSaati.TabIndex = 10;
+            this.txtDersBitisSaati.TabIndex = 5;
             // 
             // lblDersBitisSaati
             // 
@@ -138,7 +138,7 @@
             this.btnDersleriListele.Location = new System.Drawing.Point(57, 291);
             this.btnDersleriListele.Name = "btnDersleriListele";
             this.btnDersleriListele.Size = new System.Drawing.Size(386, 23);
-            this.btnDersleriListele.TabIndex = 11;
+            this.btnDersleriListele.TabIndex = 7;
             this.btnDersleriListele.Text = "DERSLERİ LİSTELE ";
             this.btnDersleriListele.UseVisualStyleBackColor = true;
             this.btnDersleriListele.Click += new System.EventHandler(this.btnDersleriListele_Click);
@@ -150,7 +150,7 @@
             this.txtListele.Multiline = true;
             this.txtListele.Name = "txtListele";
             this.txtListele.Size = new System.Drawing.Size(386, 223);
-            this.txtListele.TabIndex = 12;
+            this.txtListele.TabIndex = 8;
             // 
             // Form1
             // 
